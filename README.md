@@ -7,6 +7,7 @@ Quantum Play is a dynamic web application designed to provide users with a seaml
 
 # Features
 Game Library: Browse an extensive collection of games across multiple genres.
+
 Responsive Design: Optimized for both desktop and mobile devices for easy access anywhere.
 Secure Transactions: Implement secure purchasing options to ensure user safety.
 User-Friendly Interface: Easy navigation to enhance user experience.
